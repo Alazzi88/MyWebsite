@@ -1,0 +1,50 @@
+.foter1{
+    width: 100%;
+    height: 100%;
+    background-color: #eee;
+    padding: 40px;
+    margin: 40px 40px;
+    display: inline-block;
+    justify-items: center;
+    border-radius: 20px;
+
+}
+.headpro{
+    font-size: 40px;
+    text-align: center;
+    margin-top: 10px;
+    color: black;
+    background-color: orange;
+    border-radius: 20px;
+
+}
+.pro1{
+   width: 100%;
+   height: 350px;
+   justify-content: center;
+    text-align: center;
+    display: flex;
+    padding: 10px;
+    margin-top: 30px;
+}
+.pro2{
+    width: 100%;
+    height: 350px;
+    justify-content: center;
+     text-align: center;
+     display: flex;
+     padding: 10px;
+     margin-top: 30px;
+ }
+ .pro3{
+    width: 100%;
+    height: 350px;
+    justify-content: center;
+     text-align: center;
+     display: flex;
+     padding: 10px;
+     margin-top: 30px;
+ }
+ .provideo1,.provideo2,.provideo3{
+    border-radius: 30px;
+ }
